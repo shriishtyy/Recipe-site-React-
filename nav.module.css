@@ -1,0 +1,11 @@
+.nav{
+    font-size:3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color:rgb(223, 16, 168);
+    padding: 29px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    text-align: center;
+    background-color: rgb(6, 6, 6);
+    
+}

@@ -1,0 +1,35 @@
+.itemContainer{
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px ;
+    overflow: hidden ;
+}
+.itemImage{
+    max-width: 100%;
+    height: auto;
+}
+.itemContent{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.itemName{
+    font-size: 1em;
+    font-weight: bold;
+    color: rgb(56, 54, 54);
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 214, 6, 0.922);
+    font-family: cursive;
+    display: flexbox;
+    
+}
+.btnContainer{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around ;
+    text-align: center;
+}

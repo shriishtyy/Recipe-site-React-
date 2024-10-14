@@ -1,0 +1,16 @@
+.searchContainer{
+    margin: 20px auto;
+       width: 300px;
+       /* position: relative; */
+    
+    
+}
+.input{
+    border: none;
+    border-bottom: 3px solid rgb(36, 37, 36);
+    padding: 10px 20px;
+    width: 300px ;
+    outline: none;
+    font-size: 20px;
+    border-radius: 10px;
+}
